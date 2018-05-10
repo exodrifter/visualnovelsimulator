@@ -1,5 +1,6 @@
 # visualnovelsimulator
-This is the backend PHP code used to run [visualnovelsimulator.com](http://visualnovelsimulator.com).
+This is the backend PHP code used to run visualnovelsimulator.com between
+April 1, 2016 and April 2, 2018.
 
 # License
 Copyright (c) 2016 Ava Pek (exodrifter)
